@@ -1,5 +1,5 @@
 def cifra():
-    texto = input("Digite uma palavra: ").lower()
+    texto = input("Digite uma palavra para ser criptografada: ").lower()
     deslocamento = 3
     resultado = ""
 

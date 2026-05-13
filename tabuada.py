@@ -1,0 +1,1 @@
+#### criar tabuada de um número inteiro
